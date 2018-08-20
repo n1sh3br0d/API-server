@@ -1,4 +1,4 @@
 # API-server
 
 RESTful API server.
-Install mongodb. And run "npm start"
+Install mongodb. Install dependencies. And run "npm start"
